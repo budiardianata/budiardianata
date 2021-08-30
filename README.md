@@ -1,11 +1,11 @@
 # [![Hi, I'm Budi Ardianta](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Budi+Ardianta+;%F0%9F%92%BB+Android+And+Web+Developer+)](https://git.io/typing-svg)
-##About Me
+## About Me
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **5** years ago. Since then I pushed **230** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
+I'm Joined on Github **5** years ago. Since then I pushed **233** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
 
-##Programing Language
+## Tech Stack
 
 I most used programing languages across my projects:
 
@@ -16,13 +16,12 @@ I most used programing languages across my projects:
 ![Vue](https://img.shields.io/static/v1?style=flat&logo=Vue&label=Vue&color=%2341b883&message=1.1&cacheSeconds=3600)
 ![Java](https://img.shields.io/static/v1?style=flat&logo=Java&label=Java&color=%23b07219&message=0.8&cacheSeconds=3600)
 
+<!--START_SECTION:colourise-->
+<!--END_SECTION:colourise-->
+
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## 👨‍💻 Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ##Get In Touch
 Find out more about me & feel free to say hello through any of the social links below:
