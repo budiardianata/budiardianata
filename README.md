@@ -3,7 +3,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **5** years ago. Since then I pushed **238** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
+I'm Joined on Github **5** years ago. Since then I pushed **240** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
 
 ## Tech Stack
 
@@ -22,44 +22,6 @@ I most used programing languages across my projects:
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
-🌆 Daytime    24 commits     ████████████░░░░░░░░░░░░░   51.06% 
-🌃 Evening    8 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-🌙 Night      8 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.02%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       24 commits     ████████████░░░░░░░░░░░░░   51.06% 
-Tuesday      11 commits     █████░░░░░░░░░░░░░░░░░░░░   23.4% 
-Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-Thursday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
 ##Get In Touch
