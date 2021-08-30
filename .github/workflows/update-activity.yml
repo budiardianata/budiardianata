@@ -1,4 +1,4 @@
-name:  📊 Daily Update
+name: Daily Update 📊
 
 on:
   workflow_dispatch:
@@ -19,3 +19,4 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_OS: false
           SHOW_PROJECTS: false
+          SHOW_LINES_OF_CODE: true

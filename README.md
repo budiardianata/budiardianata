@@ -1,4 +1,4 @@
-# [![Hi, I'm Budi Ardianta](https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Budi+Ardianta+;%F0%9F%92%BB+Android+And+Web+Developer+)](https://git.io/typing-svg)
+# [![Hi, I'm Budi Ardianta](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Budi+Ardianta+;%F0%9F%92%BB+Android+And+Web+Developer+)](https://git.io/typing-svg)
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
