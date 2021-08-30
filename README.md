@@ -3,18 +3,20 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **5** years ago. Since then I pushed **240** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
+I'm Joined on Github **5** years ago. Since then I pushed **241** commits, opened **4** issues, submitted **6** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
 
 ## Tech Stack
 
 I most used programing languages across my projects:
 
-![CSS](https://img.shields.io/static/v1?style=flat&logo=CSS&label=CSS&color=%23563d7c&message=46.5&cacheSeconds=3600)
-![JavaScript](https://img.shields.io/static/v1?style=flat&logo=JavaScript&label=JavaScript&color=%23f1e05a&message=37.3&cacheSeconds=3600)
-![HTML](https://img.shields.io/static/v1?style=flat&logo=HTML&label=HTML&color=%23e34c26&message=11.6&cacheSeconds=3600)
-![Kotlin](https://img.shields.io/static/v1?style=flat&logo=Kotlin&label=Kotlin&color=%23A97BFF&message=2.4&cacheSeconds=3600)
-![Vue](https://img.shields.io/static/v1?style=flat&logo=Vue&label=Vue&color=%2341b883&message=1.1&cacheSeconds=3600)
-![Java](https://img.shields.io/static/v1?style=flat&logo=Java&label=Java&color=%23b07219&message=0.8&cacheSeconds=3600)
+![JavaScript](https://img.shields.io/static/v1?style=flat&logo=JavaScript&label=JavaScript&color=%23f1e05a&message=44.6&cacheSeconds=3600)
+![CSS](https://img.shields.io/static/v1?style=flat&logo=CSS&label=CSS&color=%23563d7c&message=18.4&cacheSeconds=3600)
+![PHP](https://img.shields.io/static/v1?style=flat&logo=PHP&label=PHP&color=%234F5D95&message=10.6&cacheSeconds=3600)
+![Java](https://img.shields.io/static/v1?style=flat&logo=Java&label=Java&color=%23b07219&message=10.3&cacheSeconds=3600)
+![HTML](https://img.shields.io/static/v1?style=flat&logo=HTML&label=HTML&color=%23e34c26&message=7.2&cacheSeconds=3600)
+![Blade](https://img.shields.io/static/v1?style=flat&logo=Blade&label=Blade&color=%23f7523f&message=6.2&cacheSeconds=3600)
+![Kotlin](https://img.shields.io/static/v1?style=flat&logo=Kotlin&label=Kotlin&color=%23A97BFF&message=0.8&cacheSeconds=3600)
+![Other](https://img.shields.io/static/v1?style=flat&logo=Other&label=Other&color=%23ededed&message=1.5&cacheSeconds=3600)
 
 ## lang
 <!--START_SECTION:colourise-->
@@ -22,44 +24,6 @@ I most used programing languages across my projects:
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    26 commits     █████████████░░░░░░░░░░░░   53.06% 
-🌃 Evening    8 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-🌙 Night      8 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.33%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       26 commits     █████████████░░░░░░░░░░░░   53.06% 
-Tuesday      11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Thursday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
 ##Get In Touch
