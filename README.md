@@ -3,7 +3,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **5** years ago. Since then I pushed **234** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
+I'm Joined on Github **5** years ago. Since then I pushed **236** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
 
 ## Tech Stack
 
