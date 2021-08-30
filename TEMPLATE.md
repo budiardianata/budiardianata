@@ -13,6 +13,7 @@ I most used programing languages across my projects:
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&logo={{LANGUAGE_NAME:uri}}&label={{LANGUAGE_NAME:uri}}&color={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_PERCENT:uri}}&cacheSeconds=3600)
 {{ LANGUAGE_TEMPLATE_END }}
 
+## lang
 <!--START_SECTION:colourise-->
 <!--END_SECTION:colourise-->
 
@@ -21,6 +22,7 @@ I most used programing languages across my projects:
 <!--END_SECTION:waka-->
 
 ##Get In Touch
+
 Find out more about me & feel free to say hello through any of the social links below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-budiardianata-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/budiardianata/)](https://www.linkedin.com/in/budiardianata/)
