@@ -1,11 +1,9 @@
 name: Daily Update 📊
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *' # every 12 hours
-  push:
-    branches:
-      - master
 
 jobs:
   generate-readme:
@@ -44,6 +42,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
   update-badge:
     name: Update Readme with Rainbow badges
+    needs: generate-readme
     runs-on: ubuntu-latest
     steps:
       - uses: Parply/readme-badge-colouriser@master
