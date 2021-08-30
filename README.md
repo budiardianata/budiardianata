@@ -11,8 +11,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 My Activity 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 134 Contributions in the Year 2021
@@ -25,6 +23,29 @@ Find out more about me & feel free to say hello through any of the social links 
  > 
 > 🔑 17 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
+🌆 Daytime    34 commits     ██████░░░░░░░░░░░░░░░░░░░   26.77% 
+🌃 Evening    47 commits     █████████░░░░░░░░░░░░░░░░   37.01% 
+🌙 Night      39 commits     ███████░░░░░░░░░░░░░░░░░░   30.71%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
+Tuesday      26 commits     █████░░░░░░░░░░░░░░░░░░░░   20.47% 
+Wednesday    19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
+Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
+Friday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
+Saturday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
+Sunday       28 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
