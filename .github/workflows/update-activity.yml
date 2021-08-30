@@ -42,11 +42,9 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
   update-badge:
     name: Update Readme with Rainbow badges
-    needs: generate-readme
+    needs: update-weekly-Activity
     runs-on: ubuntu-latest
     steps:
       - uses: Parply/readme-badge-colouriser@master
         with:
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
-          SATURATION: "0.5"
-          AUTHOR: "Budi Ardianata"
