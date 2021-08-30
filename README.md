@@ -1,5 +1,6 @@
 # [![Hi, I'm Budi Ardianta](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Budi+Ardianta+;%F0%9F%92%BB+Android+And+Web+Developer+)](https://git.io/typing-svg)
-
+<!--START_SECTION:colourise-->
+<!--END_SECTION:colourise-->
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
 Find out more about me & feel free to say hello through any of the social links below:
@@ -8,7 +9,7 @@ Find out more about me & feel free to say hello through any of the social links 
 [![Twitter Badge](https://img.shields.io/badge/-budiardianata-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/budiardianata)](https://www.linkedin.com/in/budiardianata/)
 [![Instagram Badge](https://img.shields.io/badge/-budiardianata-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/budiardianata/)](https://instagram.com/budiardianata)
 [![Medium Badge](https://img.shields.io/badge/-@budiardianata-%2312100E.svg?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@budiardianata/)](https://medium.com/@budiardianata)
-
+## 👨‍💻 My Activity
 ## 👨‍💻 My Activity 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
