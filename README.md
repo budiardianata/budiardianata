@@ -1,20 +1,22 @@
-### Hi there 👋
+# 👋 Hi, I'm Budi Ardianta
+I'm a freelance Developer from Indonesia. Now, i'm focussed on mobile application development and publisher on Playstore. Find out more about me & feel free to connect with me here:
 
-<p>Hi, I'm Budi Ardiantaa. I'm a freelance Developer from Indonesia. Now, i'm focussed on mobile application development and publisher on Playstore. </p>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-budiardianata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/budiardianata/)](https://www.linkedin.com/in/budiardianata/)
+[![Twitter Badge](https://img.shields.io/badge/-budiardianata-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/budiardianata)](https://www.linkedin.com/in/budiardianata/)
+[![Instagram Badge](https://img.shields.io/badge/-budiardianata-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/budiardianata/)](https://instagram.com/budiardianata)
+[![Medium Badge](https://img.shields.io/badge/-@budiardianata-%2312100E.svg?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@budiardianata/)](https://medium.com/@budiardianata)
 
-<p><a href="https://www.twitter.com/budiardianata"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/budiardianata"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/budiardianata/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@budiardianata"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/budiardianata"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+## 📊 Weekly Activity 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!--<p><a href="https://www.mokkapps.de">🌐 Check out my website</a></p>-->
+## Contributions
+<img src="https://github-readme-stats.vercel.app/api?username=budiardianata&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
+
+## Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budiardianata&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+
 
 
 
