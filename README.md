@@ -6,9 +6,7 @@ I'm a freelance Developer from Indonesia. Now, i'm focussed on mobile applicatio
 [![Instagram Badge](https://img.shields.io/badge/-budiardianata-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/budiardianata/)](https://instagram.com/budiardianata)
 [![Medium Badge](https://img.shields.io/badge/-@budiardianata-%2312100E.svg?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@budiardianata/)](https://medium.com/@budiardianata)
 
-## 📊 Weekly Activity 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ## Contributions
 <img src="https://github-readme-stats.vercel.app/api?username=budiardianata&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
@@ -17,6 +15,9 @@ I'm a freelance Developer from Indonesia. Now, i'm focussed on mobile applicatio
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budiardianata&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
 
+## 📊 Weekly Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
