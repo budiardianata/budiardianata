@@ -32,7 +32,6 @@ jobs:
     needs: generate-readme
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -43,12 +42,12 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_SHORT_INFO: false
           SHOW_LANGUAGE_PER_REPO: false
-  update-blog-rss:
-    name: Update this repo's README with latest blog posts
-    needs: generate-readme
+  update-badge:
+    name: Update Readme with Rainbow badges
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: Parply/readme-badge-colouriser@master
         with:
-          feed_list: "https://dev.to/feed/budiardianata,https://budi.web.id/feed.xml"
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          SATURATION: "0.5"
+          AUTHOR: "Budi Ardianata"
