@@ -3,7 +3,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **5** years ago. Since then I pushed **236** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
+I'm Joined on Github **5** years ago. Since then I pushed **238** commits, opened **3** issues, submitted **5** pull requests, received **1** stars across **32** personal projects and contributed to **5** public repositories.
 
 ## Tech Stack
 
@@ -16,52 +16,16 @@ I most used programing languages across my projects:
 ![Vue](https://img.shields.io/static/v1?style=flat&logo=Vue&label=Vue&color=%2341b883&message=1.1&cacheSeconds=3600)
 ![Java](https://img.shields.io/static/v1?style=flat&logo=Java&label=Java&color=%23b07219&message=0.8&cacheSeconds=3600)
 
+## lang
 <!--START_SECTION:colourise-->
 <!--END_SECTION:colourise-->
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-🌆 Daytime    22 commits     ████████████░░░░░░░░░░░░░   48.89% 
-🌃 Evening    8 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
-🌙 Night      8 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.78%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       22 commits     ████████████░░░░░░░░░░░░░   48.89% 
-Tuesday      11 commits     ██████░░░░░░░░░░░░░░░░░░░   24.44% 
-Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Thursday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.89%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
 ##Get In Touch
+
 Find out more about me & feel free to say hello through any of the social links below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-budiardianata-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/budiardianata/)](https://www.linkedin.com/in/budiardianata/)
