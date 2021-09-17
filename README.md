@@ -2,7 +2,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **5** years ago. Since then I pushed **265** commits, opened **4** issues, submitted **6** pull requests, received **1** stars across **32** personal projects and contributed to **6** public repositories.
+I'm Joined on Github **5** years ago. Since then I pushed **266** commits, opened **4** issues, submitted **6** pull requests, received **1** stars across **32** personal projects and contributed to **6** public repositories.
 I most used programing languages across my projects:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
@@ -23,49 +23,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
-🌆 Daytime    53 commits     ███████░░░░░░░░░░░░░░░░░░   31.36% 
-🌃 Evening    53 commits     ███████░░░░░░░░░░░░░░░░░░   31.36% 
-🌙 Night      39 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.3% 
-Tuesday      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.93% 
-Wednesday    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Friday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Saturday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Sunday       30 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.75%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Kotlin                   6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.65% 
-Java                     4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   23.32% 
-Groovy                   4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   23.21% 
-XML                      3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
-
-🔥 Editors: 
-Android Studio           20 hrs 35 mins      █████████████████████████   99.65% 
-WebStorm                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
-
-```
-
-
- Last Updated on 16/09/2021
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/budiardianata/budiardianata/actions/workflows/update-activity.yml/badge.svg)
