@@ -23,6 +23,44 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    41 commits     █████░░░░░░░░░░░░░░░░░░░░   20.81% 
+🌆 Daytime    57 commits     ███████░░░░░░░░░░░░░░░░░░   28.93% 
+🌃 Evening    61 commits     ███████░░░░░░░░░░░░░░░░░░   30.96% 
+🌙 Night      38 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.83% 
+Tuesday      31 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
+Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
+Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+Saturday     40 commits     █████░░░░░░░░░░░░░░░░░░░░   20.3% 
+Sunday       33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/budiardianata/budiardianata/actions/workflows/update-activity.yml/badge.svg)
