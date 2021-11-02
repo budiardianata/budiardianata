@@ -2,7 +2,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **5** years ago. Since then I pushed **366** commits, opened **4** issues, submitted **6** pull requests, received **1** stars across **37** personal projects and contributed to **10** public repositories.
+I'm Joined on Github **5** years ago. Since then I pushed **367** commits, opened **4** issues, submitted **6** pull requests, received **1** stars across **37** personal projects and contributed to **10** public repositories.
 I most used programing languages across my projects:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
@@ -23,48 +23,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    79 commits     ███████░░░░░░░░░░░░░░░░░░   30.38% 
-🌆 Daytime    82 commits     ████████░░░░░░░░░░░░░░░░░   31.54% 
-🌃 Evening    61 commits     █████░░░░░░░░░░░░░░░░░░░░   23.46% 
-🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       52 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Wednesday    31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Thursday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Friday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Saturday     52 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Sunday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      17 hrs 52 mins      ████████████░░░░░░░░░░░░░   51.11% 
-Blade Template           14 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   42.71% 
-JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
-JavaScript               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
-
-🔥 Editors: 
-PhpStorm                 34 hrs 59 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/budiardianata/budiardianata/actions/workflows/update-activity.yml/badge.svg)
