@@ -2,7 +2,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **6** years ago. Since then I pushed **688** commits, opened **6** issues, submitted **11** pull requests, received **1** stars across **40** personal projects and contributed to **11** public repositories.
+I'm Joined on Github **6** years ago. Since then I pushed **691** commits, opened **7** issues, submitted **12** pull requests, received **1** stars across **41** personal projects and contributed to **11** public repositories.
 I most used programing languages across my projects:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
