@@ -2,13 +2,13 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **6** years ago. Since then I pushed **691** commits, opened **7** issues, submitted **12** pull requests, received **1** stars across **41** personal projects and contributed to **11** public repositories.
+I'm Joined on Github **6** years ago. Since then I pushed **741** commits, opened **8** issues, submitted **21** pull requests, received **1** stars across **45** personal projects and contributed to **7** public repositories.
 I most used programing languages across my projects:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-%23563d7c?style=flat&logo=CSS&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-%234F5D95?style=flat&logo=PHP&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23b07219?style=flat&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-%234F5D95?style=flat&logo=PHP&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-%23f7523f?style=flat&logo=Blade&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23e34c26?style=flat&logo=HTML&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%23A97BFF?style=flat&logo=Kotlin&logoColor=white)
