@@ -2,7 +2,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **6** years ago. Since then I pushed **741** commits, opened **8** issues, submitted **21** pull requests, received **1** stars across **45** personal projects and contributed to **7** public repositories.
+I'm Joined on Github **6** years ago. Since then I pushed **742** commits, opened **8** issues, submitted **21** pull requests, received **1** stars across **45** personal projects and contributed to **7** public repositories.
 I most used programing languages across my projects:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
@@ -23,46 +23,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    122 commits    ████████████░░░░░░░░░░░░░   49.0% 
-🌆 Daytime    61 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
-🌃 Evening    49 commits     █████░░░░░░░░░░░░░░░░░░░░   19.68% 
-🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.83%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
-Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
-Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Friday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Saturday     63 commits     ██████░░░░░░░░░░░░░░░░░░░   25.3% 
-Sunday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Other                    3 hrs               █████████████████████████   100.0%
-
-🔥 Editors: 
-Google Calendar          3 hrs               █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 08/10/2022 14:52:50 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/budiardianata/budiardianata/actions/workflows/update-activity.yml/badge.svg)
