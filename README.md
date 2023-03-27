@@ -23,6 +23,43 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C636%20hrs%2056%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                822 commits         █████████░░░░░░░░░░░░░░░░   36.70 % 
+🌆 Daytime                580 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌃 Evening                588 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌙 Night                  250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Tuesday                  221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Wednesday                298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Thursday                 259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Friday                   627 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Saturday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Sunday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 27/03/2023 00:41:28 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/budiardianata/budiardianata/actions/workflows/update-activity.yml/badge.svg)
