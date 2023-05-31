@@ -2,7 +2,7 @@
 
 I'm a **freelance Developer** based in indonesia. Now, I'm focussed on mobile application development and publisher on Playstore. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **7** years ago. Since then I pushed **1051** commits, opened **11** issues, submitted **100** pull requests, received **1** stars across **50** personal projects and contributed to **1** public repositories.
+I'm Joined on Github **7** years ago. Since then I pushed **1052** commits, opened **11** issues, submitted **100** pull requests, received **1** stars across **50** personal projects and contributed to **1** public repositories.
 I most used programing languages across my projects:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
@@ -23,48 +23,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%2038%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                750 commits         ██████████░░░░░░░░░░░░░░░   39.27 % 
-🌆 Daytime                473 commits         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-🌃 Evening                510 commits         ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-🌙 Night                  177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Tuesday                  207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Wednesday                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Friday                   535 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Saturday                 374 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Sunday                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Dart                     15 hrs 55 mins      ████████████████████░░░░░   79.37 % 
-Kotlin                   3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Groovy                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-
-🔥 Editors: 
-Android Studio           20 hrs 3 mins       █████████████████████████   99.95 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
-
- Last Updated on 30/05/2023 00:43:41 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/budiardianata/budiardianata/actions/workflows/update-activity.yml/badge.svg)
